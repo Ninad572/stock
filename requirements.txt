@@ -3,6 +3,6 @@ requests
 yfinance
 pandas
 datetime
-matplotlib.pyplot
+matplotlib
 bs4
 textblob
