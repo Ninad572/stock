@@ -1,1 +1,8 @@
+streamlit
+requests
 yfinance
+pandas
+datetime
+matplotlib.pyplot
+bs4
+textblob
